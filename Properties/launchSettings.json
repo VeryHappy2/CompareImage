@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "CompareImg": {
-      "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\User\\Desktop\\Menu.png C:\\Users\\User\\Desktop\\Return.png"
-    }
-  }
-}
